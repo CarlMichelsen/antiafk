@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>AntiAfk</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <TargetFramework>net48-windows</TargetFramework>
+    <ApplicationIcon>keyboard.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
